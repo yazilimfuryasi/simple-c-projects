@@ -1,11 +1,10 @@
 #include<stdio.h>
-#include<conio.h>
 
 int main()
 {
 	int sayi1, sayi2, toplam, fark, carpim;
 	
-	// Kullanıcıdan veri alarak işlem yapmak
+	// KullanÄ±cÄ±dan veri alarak iÅŸlem yapmak
 	printf("Sayi Girin: "); scanf("%d", &sayi1);
 	printf("2. Sayiyi Girin: "); scanf("%d", &sayi2);
 
